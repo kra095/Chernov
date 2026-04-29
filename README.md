@@ -18,7 +18,7 @@
 ```bash 
 git clone https://github.com/kra095/Chernov
 cd CurrencyConverter
-python iii.py 
+python CurrencyConver.py 
 
 
  
